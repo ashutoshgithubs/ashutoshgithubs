@@ -1,4 +1,4 @@
-![logo](https://github.com/ashutoshgithubs/ashutoshgithubs/blob/main/profile-banner.png)
+![logo](https://github.com/ashutoshgithubs/ashutoshgithubs/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
