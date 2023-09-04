@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashubhai_01" target="blank"><img src="https://img.shields.io/twitter/follow/ashubhai_01?logo=twitter&style=for-the-badge" alt="ashubhai_01" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development.**
+- 🌱 I’m a **MERN Stack Developer** & AI/ML Enthusiast.
 
 - 📫 How to reach me **ashubhai3518@gmail.com**
 
