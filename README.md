@@ -1,5 +1,7 @@
 ![logo](https://github.com/ashutoshgithubs/ashutoshgithubs/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
@@ -15,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-<i class="devicon-twitter-original"></i>
+
           
 <p align="left">
-<a href="https://twitter.com/ashubhai_01" target="blank"><img align="center" style="filter: invert(100%) contrast(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="ashubhai_01" height="30" width="40" /></a>
+<a href="https://twitter.com/ashubhai_01" target="blank"><i class="devicon-twitter-original"></i><img align="center" style="filter: invert(100%) contrast(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="ashubhai_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-kumar-2b08a3226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kumar-2b08a3226" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/singhashu940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhashu942" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/ashutosh_bhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashutosh_bhai" height="30" width="40" /></a>
