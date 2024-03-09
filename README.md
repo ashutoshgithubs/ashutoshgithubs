@@ -13,7 +13,10 @@
 
 - ⚡ Fun fact **I think I am a bit funny😀**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
+
+<i class="devicon-twitter-original"></i>
+          
 <p align="left">
 <a href="https://twitter.com/ashubhai_01" target="blank"><img align="center" style="filter: invert(100%) contrast(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="ashubhai_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-kumar-2b08a3226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kumar-2b08a3226" height="30" width="40" /></a>
