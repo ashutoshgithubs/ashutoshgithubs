@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **ashubhai3518@gmail.com**
 
-- ⚡ Fun fact **I think I am a bit funny😀**
-
 <h3 align="left">Connect with me:</h3> 
 
 
