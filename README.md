@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<h3 align="center">A passionate MERN Stack developer from India.</h3>
+<h3 align="center">A MERN Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgithubs&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgithubs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashubhai_01" target="blank"><img src="https://img.shields.io/twitter/follow/ashubhai_01?logo=twitter&style=for-the-badge" alt="ashubhai_01" /></a> </p>
 
-- 🌱 I’m a **MERN Stack Developer** & AI/ML Enthusiast.
+- 🌱 I’m a **MERN Stack Developer** & Web3 Enthusiast.
 
 - 📫 How to reach me **ashubhai3518@gmail.com**
 
@@ -30,9 +30,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a><a href="https://devdocs.io/express/" target="_blank" rel="noreferrer">
+<p align="left">  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next&theme=light" alt="next" width="40" height="40" style="color:white"/> </a>  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nest&theme=light" alt="nest" width="40" height="40" style="color:white"/> </a>
+          <a href="https://devdocs.io/express/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40" style="color:white"/> </a> <a href="https://devdocs.io/express/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://devdocs.io/redux/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="redux" width="40" height="40"/> </a> <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/> </a>
+          <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" width="40" height="40" style="color:white"/></a> <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="postgres" width="40" height="40" style="color:white"/> </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://devdocs.io/redux/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="redux" width="40" height="40"/> </a> <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://learning.postman.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="postman" width="40" height="40" style="color:white:/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
