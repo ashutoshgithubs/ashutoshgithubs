@@ -5,9 +5,7 @@
 <h3 align="center">A Full Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-<a href="https://ashutosh-portfolio-ten.vercel.app/">
-  <img src="https://visitcount.itsvg.in/api?id=ashutoshgithubs&label=Profile%20Views&color=1&pretty=false" />
-</a>
+
 <p align="left"> <a href="https://twitter.com/ashubhai_01" target="blank"><img src="https://img.shields.io/twitter/follow/ashubhai_01?logo=twitter&style=for-the-badge" alt="ashubhai_01" /></a> </p>
 
 - 🌱 I’m a **MERN Stack Developer** & Web3 Enthusiast.
